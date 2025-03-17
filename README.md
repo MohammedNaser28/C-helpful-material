@@ -17,17 +17,21 @@ I seperated  it into two parts Videos and Atricels
 - [Learn C++](https://cplusplus.com/)
 	it's not repeated, this is another powerful webiste with good documentation and explain for any function or topic you search about.
 	
-## GUI with C++
-> [!NOTE]
-> I provided tutorials and articels for common issues that will you face duraing install qt or integrated it with visual studio 
-</br>
+## GUI with C++ [QT]
 
 > [!IMPORTANT]
-> I do what I can to collect issues and resources, If you fined something wrong or you want correct something, Please contact with me.
+> In QT creator, you may face some problems with the internal terminal.\
+to disable it go to:
+> 1. Tools
+> 2. External
+> 3. Configure...
+> 4. Terminal
+> 5. Uncheck <strong>use internal terminal</strong>
+</br>
 
-- QT
-   - [The Utimite QT 6 guide](https://youtube.com/playlist?list=PLUbFnGajtZlXbrbdlraCe3LMC_YH5abao&si=ZnwcC9JW-LdgZoib)
-- WindowsUI
+- [The Utimite QT 6 guide](https://youtube.com/playlist?list=PLUbFnGajtZlXbrbdlraCe3LMC_YH5abao&si=ZnwcC9JW-LdgZoib)
+
 ## Helpful tools
-- Git
+- <strong>Git & GitHub</strong>
    - [Git Workflow](https://youtu.be/e9lnsKot_SQ?si=dV6J5iH_4eSjyXSa "great illustration on how to use git")
+   - [Git and GitHub | Complete Guide](https://www.youtube.com/watch?v=FueXoIewxg0) #Arabic
