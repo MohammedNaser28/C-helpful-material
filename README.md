@@ -26,8 +26,7 @@ I seperated  it into two parts Videos and Atricels
 > I do what I can to collect issues and resources, If you fined something wrong or you want correct something, Please contact with me.
 
 - QT
-   - Qt with Visual Studio
-   - Qt Creator
+   - [The Utimite QT 6 guide](https://youtube.com/playlist?list=PLUbFnGajtZlXbrbdlraCe3LMC_YH5abao&si=ZnwcC9JW-LdgZoib)
 - WindowsUI
 ## Helpful tools
 - Git
