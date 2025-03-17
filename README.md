@@ -31,4 +31,4 @@ I seperated  it into two parts Videos and Atricels
 - WindowsUI
 ## Helpful tools
 - Git
-   - [Git Workflow](https://youtu.be/e9lnsKot_SQ?si=dV6J5iH_4eSjyXSa)
+   - [Git Workflow](https://youtu.be/e9lnsKot_SQ?si=dV6J5iH_4eSjyXSa "great illustration on how to use git")
