@@ -31,6 +31,13 @@ to disable it go to:
 
 - [The Utimite QT 6 guide](https://youtube.com/playlist?list=PLUbFnGajtZlXbrbdlraCe3LMC_YH5abao&si=ZnwcC9JW-LdgZoib)
 
+- [Learn Qt C++ in Arabic](https://youtube.com/playlist?list=PLpj3stwSVSapVlcPAW-qMcxJnd1gZCEDs&si=j4eC1MiG0b6u9sl8)
+
+> [!NOTE]
+> This Playlist is old, but good and popular
+
+- [QT C++ GUI Tutorial For Beginners](https://youtube.com/playlist?list=PLS1QulWo1RIZiBcTr5urECberTITj7gjA&si=8Ma8l1wafueQFA1l)
+
 ## Helpful tools
 - <strong>Git & GitHub</strong>
    - [Git Workflow](https://youtu.be/e9lnsKot_SQ?si=dV6J5iH_4eSjyXSa "great illustration on how to use git")
