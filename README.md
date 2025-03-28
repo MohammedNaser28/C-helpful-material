@@ -33,6 +33,10 @@ to disable it go to:
 
 - [Learn Qt C++ in Arabic](https://youtube.com/playlist?list=PLpj3stwSVSapVlcPAW-qMcxJnd1gZCEDs&si=j4eC1MiG0b6u9sl8)
 
+- [QT C++ Tutorial](https://youtube.com/playlist?list=PLg9e3beqheAfZp7wDhtyxtw3Pc66EfO4O&si=_q_m_-gBobxWhnMS)
+  
+</br>
+
 > [!NOTE]
 > This Playlist is old, but good and popular
 
