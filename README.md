@@ -1,5 +1,8 @@
+>[!DESCRIPTION]
+>This file was written to provide google resources for those who want to recap or learn something in C++, and to help them doing their best in C++ Projects.
 
-This file was written to provide google resources for those who want to recap or learn something in C++, and to help them doing their best in C++ Projects.
+> [!IMPORTANT]
+> I do what I can to collect issues and resources, If you fined something wrong or you want correct something, Please contact with me.
 
 ## C++ Syntax and basics 
 This section is for the c++ syntax with resources for *Struct* & *Class* 
