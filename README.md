@@ -1,4 +1,4 @@
->[!DESCRIPTION]
+
 >This file was written to provide google resources for those who want to recap or learn something in C++, and to help them doing their best in C++ Projects.
 
 > [!IMPORTANT]
