@@ -34,6 +34,9 @@ to disable it go to:
 
 - [The Utimite QT 6 guide](https://youtube.com/playlist?list=PLUbFnGajtZlXbrbdlraCe3LMC_YH5abao&si=ZnwcC9JW-LdgZoib)
 
+- [QT Widgets](https://youtube.com/playlist?list=PLh0cogPqXcJMuRUNMgGZwl5WEX6ZDGqaU&si=CXhTy7cyJxZnGHlh)
+
+
 - [Learn Qt C++ in Arabic](https://youtube.com/playlist?list=PLpj3stwSVSapVlcPAW-qMcxJnd1gZCEDs&si=j4eC1MiG0b6u9sl8)
 
 - [QT C++ Tutorial](https://youtube.com/playlist?list=PLg9e3beqheAfZp7wDhtyxtw3Pc66EfO4O&si=_q_m_-gBobxWhnMS)
