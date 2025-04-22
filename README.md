@@ -1,4 +1,3 @@
-
 						Resources for C++ Gui projects
 
 > [!IMPORTANT]
@@ -6,13 +5,12 @@
 
 ## C++ Syntax and basics 
 This section is for the c++ syntax with resources for *Struct* & *Class* 
-I seperated  it into two parts Videos and Atricels
 ### Videos & Playlists
 - [Osama Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) #Arabic
 - [Adel Nesim](https://www.youtube.com/watch?v=z1FdInL8sjg&list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3) #Arabic 
 - [Adel Nasim STL](https://youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp&si=1yWrmyjphydjiqEJ) #Arabic 
 - [The cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
-  #English - The best in my opinion. This person in my opinion has great tutorials for anything you can think about.
+  #English - The best tutorial in my opinion. the chrono has great tutorials for anything you can think about.
 	
 ### Articles
 - [Learn cpp](https://www.learncpp.com/)
@@ -52,7 +50,7 @@ I seperated  it into two parts Videos and Atricels
 ## Helpful tools
 - <strong>Git & GitHub</strong>
    - [Git Workflow](https://youtu.be/e9lnsKot_SQ?si=dV6J5iH_4eSjyXSa "great illustration on how to use git")
-   - [Learn Git and Github (ELZero)](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=mA1GMOvpmv4wLkzQ) #Arabic - fast and simple tutorial.
+   - [Learn Git and Github (ELzero)](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=mA1GMOvpmv4wLkzQ) #Arabic - fast and simple tutorial.
    - [Git and GitHub | Complete Guide](https://www.youtube.com/watch?v=FueXoIewxg0) #Arabic - learn how things work under the hood.
    
 
