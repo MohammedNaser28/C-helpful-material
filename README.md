@@ -14,10 +14,9 @@ This section is for the c++ syntax with resources for *Struct* & *Class*
 	
 ### Articles
 - [Learn cpp](https://www.learncpp.com/)
-	This is too long to end it , But the Most powerful thing in this its detailes and good explain of any topic you want to understand
+	 A complete learning guide.
 - [Learn C++](https://cplusplus.com/)
-	it's not repeated, this is another powerful webiste with good documentation and explain for any function or topic you search about.
-
+  	Reference manual for the C++ Standard Library and language features.
  </br>
  
 ## GUI with C++ [QT]
