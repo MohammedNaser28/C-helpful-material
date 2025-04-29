@@ -1,5 +1,5 @@
-						Resources for C++ Gui projects
-
+ #  <p align="center">Resources for C++ Gui projects</p>
+ 
 > [!IMPORTANT]
 > If you find something wrong or you want to contribute, Please contact me.
 
@@ -37,12 +37,11 @@ This section is for the c++ syntax with resources for *Struct* & *Class*
    - [INSTALL VISUAL STUDIO 2022 | QT 6 | Configure QT EXTENSION IN VISUAL STUDIO](https://youtu.be/rH2Kq2BIGVs?si=7gQFM0sgvi5-eeTZ)
      
 > [!IMPORTANT]
-> In QT creator, you may face some problems with the internal terminal.\to disable it go to:
-> 1. Tools
-> 2. External
-> 3. Configure...
-> 4. Terminal
-> 5. Uncheck <strong>use internal terminal</strong>
+> In QT creator, you may face some problems with the internal terminal. To disable it go to: </br>
+> Tools → External → Configure... → Terminal → Uncheck <strong>use internal terminal</strong>
+> </br></br>
+> In Visual Studio you'll face errors if you have arabic literals in your source code. To solve this go to: </br>
+> File → Save "your file name" As → ▼ (click arrow on <strong>Save button</strong>) → Save with Encoding → Choose: <strong>Unicode (UTF-8 with signature) - Codepage 65001 </strong>→ Save
 
 </br>
      
